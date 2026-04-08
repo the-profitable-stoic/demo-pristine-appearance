@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Pristine Appearance",
+    "phone": "+15595754917",
+    "category": "pressure washing",
+    "city": "Fresno",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Fresno's Top Pressure Washing",
+      "heroSubline": "Restore your property's curb appeal with our expert pressure washing services. Serving Fresno and surrounding areas.",
+      "aboutTitle": "Fresno's Trusted Pressure Washing Experts",
+      "aboutText": [
+        "Pristine Appearance started with a simple goal: to provide Fresno homeowners and businesses with reliable, high-quality pressure washing services. We saw a need for a company that understood the unique challenges of our local environment – the relentless summer heat, the persistent dust, and the occasional foggy winter.",
+        "Our approach is straightforward: we use the right equipment, the right techniques, and a commitment to doing the job right the first time. We believe in clear communication, fair pricing, and exceeding expectations. We treat every property as if it were our own, ensuring meticulous cleaning and lasting results.",
+        "We are proud to be a part of the Fresno community. We actively support local initiatives and strive to minimize our environmental impact through responsible water usage and eco-friendly cleaning solutions. When you choose Pristine Appearance, you're choosing a local business that cares."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has years of experience tackling even the toughest cleaning challenges in Fresno."
+        },
+        {
+          "title": "Advanced Equipment",
+          "description": "We utilize professional-grade equipment to deliver superior cleaning power without damaging your surfaces."
+        },
+        {
+          "title": "Eco-Friendly Solutions",
+          "description": "We prioritize environmentally responsible cleaning practices and use biodegradable detergents."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work and are committed to ensuring your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Get a Free Pressure Washing Quote!",
+      "ctaSubline": "Transform your property with Pristine Appearance. Contact us today to schedule your service."
+    },
+    "services": [
+      {
+        "slug": "house-washing",
+        "name": "House Washing",
+        "shortDescription": "Revitalize your home's exterior with our thorough house washing services.",
+        "description": "Fresno's intense summer heat and dusty conditions can take a toll on your home's exterior. Over time, dirt, algae, and mildew can accumulate, diminishing your curb appeal and potentially causing damage. Our house washing service is designed to safely and effectively remove these contaminants, restoring your home to its original beauty.\n\nWe use a soft washing technique that combines low-pressure water with specialized cleaning solutions. This method is gentle on your siding, preventing damage while still delivering a powerful clean. We pay close attention to detail, ensuring that every nook and cranny is thoroughly cleaned, from the siding to the trim to the gutters.\n\nOur house washing service not only improves the appearance of your home but also helps to protect it from the damaging effects of mold, mildew, and algae. Regular house washing can extend the life of your siding and prevent costly repairs down the road. We handle all types of siding, including stucco common in Fresno, vinyl, wood, and brick.",
+        "process": [
+          "Step 1: Thorough inspection of your home's exterior to identify areas of concern.",
+          "Step 2: Application of our specialized cleaning solution to loosen dirt and grime.",
+          "Step 3: Gentle rinsing with low-pressure water to remove contaminants without damaging surfaces.",
+          "Step 4: Final inspection to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Protection against mold and mildew",
+          "Extended siding lifespan",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my house washed?",
+            "answer": "We recommend having your house washed every 1-2 years to maintain its appearance and protect it from damage. Homes near Woodward Park or in older neighborhoods may see increased buildup."
+          },
+          {
+            "question": "Is soft washing safe for my siding?",
+            "answer": "Yes, soft washing is a safe and effective method for cleaning all types of siding. It uses low pressure to prevent damage while still delivering a powerful clean."
+          },
+          {
+            "question": "Do I need to be home during the house washing service?",
+            "answer": "No, you do not need to be home during the service. We just need access to an outdoor water spigot."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-cleaning",
+        "name": "Driveway Cleaning",
+        "shortDescription": "Remove oil stains and grime from your driveway with our professional cleaning.",
+        "description": "Your driveway is one of the first things people see when they arrive at your home. A dirty, stained driveway can detract from your property's overall appearance. Our driveway cleaning service is designed to remove oil stains, dirt, and other unsightly blemishes, restoring your driveway to its former glory.\n\nWe use high-pressure water and specialized cleaning solutions to break down stubborn stains and grime. Our team is experienced in working with all types of driveway surfaces, including concrete, asphalt, and pavers. We take care to protect your landscaping and surrounding areas during the cleaning process.\n\nRegular driveway cleaning not only improves your property's curb appeal but also helps to prevent cracking and deterioration. Oil stains and other contaminants can seep into the concrete, causing it to weaken over time. By removing these contaminants, you can extend the life of your driveway and avoid costly repairs. Considering Fresno's climate, a clean driveway also reflects less heat, keeping your property cooler.",
+        "process": [
+          "Step 1: Pre-treatment of oil stains and other problem areas with specialized cleaning solutions.",
+          "Step 2: High-pressure washing to remove dirt, grime, and stains.",
+          "Step 3: Surface cleaning to ensure a uniform clean.",
+          "Step 4: Post-treatment to protect your driveway from future stains."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Removal of oil stains and grime",
+          "Prevention of cracking and deterioration",
+          "Extended driveway lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my driveway cleaned?",
+            "answer": "We recommend having your driveway cleaned every 1-2 years, or more often if you have frequent oil spills or heavy traffic."
+          },
+          {
+            "question": "Will driveway cleaning damage my landscaping?",
+            "answer": "No, we take care to protect your landscaping during the cleaning process. We use low-pressure water and avoid spraying cleaning solutions directly onto plants."
+          },
+          {
+            "question": "Can you remove all types of stains from my driveway?",
+            "answer": "We can remove most types of stains, including oil, grease, rust, and algae. However, some older, deeply embedded stains may be more difficult to remove completely."
+          }
+        ]
+      },
+      {
+        "slug": "patio-deck-cleaning",
+        "name": "Patio & Deck Cleaning",
+        "shortDescription": "Prepare your outdoor living space for entertaining with our patio and deck cleaning.",
+        "description": "Fresno residents know the value of a well-maintained patio or deck. It's the perfect place to relax, entertain guests, and enjoy the beautiful California weather. However, patios and decks can quickly become dirty and stained, especially during the summer months. Our patio and deck cleaning service is designed to remove dirt, algae, and other contaminants, restoring your outdoor living space to its former glory.\n\nWe use a combination of pressure washing and specialized cleaning solutions to clean your patio or deck. Our team is experienced in working with all types of surfaces, including wood, concrete, and composite materials. We take care to protect your landscaping and surrounding areas during the cleaning process.\n\nRegular patio and deck cleaning not only improves the appearance of your outdoor living space but also helps to prevent damage from mold, mildew, and algae. These contaminants can cause wood to rot and concrete to crack, leading to costly repairs. By removing these contaminants, you can extend the life of your patio or deck and enjoy it for years to come.",
+        "process": [
+          "Step 1: Inspection of your patio or deck to identify areas of concern.",
+          "Step 2: Application of our specialized cleaning solution to loosen dirt and grime.",
+          "Step 3: Pressure washing to remove contaminants without damaging surfaces.",
+          "Step 4: Final inspection to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Improved outdoor living space",
+          "Removal of dirt, algae, and grime",
+          "Prevention of damage from mold and mildew",
+          "Extended patio or deck lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my patio or deck cleaned?",
+            "answer": "We recommend having your patio or deck cleaned every year to maintain its appearance and protect it from damage."
+          },
+          {
+            "question": "Is pressure washing safe for my wood deck?",
+            "answer": "Yes, we use a low-pressure setting and specialized cleaning solutions to safely clean wood decks. We are careful to avoid damaging the wood."
+          },
+          {
+            "question": "Do I need to move my furniture before the cleaning service?",
+            "answer": "Yes, we ask that you move your furniture and any other items off of your patio or deck before we arrive."
+          }
+        ]
+      },
+      {
+        "slug": "fence-cleaning",
+        "name": "Fence Cleaning",
+        "shortDescription": "Restore and protect your fence with our expert cleaning services.",
+        "description": "A clean fence enhances your property's curb appeal and protects your investment. Over time, fences accumulate dirt, algae, and mildew, especially in Fresno's varied climate. Our fence cleaning service removes these contaminants, restoring your fence to its original beauty and extending its lifespan.\n\nWe use a combination of pressure washing and specialized cleaning solutions tailored to your fence's material. Whether you have a wood, vinyl, or metal fence, our team has the expertise to clean it safely and effectively. We take precautions to protect your landscaping and surrounding areas during the cleaning process.\n\nRegular fence cleaning not only improves the appearance of your property but also prevents damage from rot, rust, and decay. By removing contaminants and applying a protective sealant, we can help your fence withstand the elements and last for years to come. This is especially important in Fresno where the sun can really damage the fence.",
+        "process": [
+          "Step 1: Thorough inspection of your fence to assess its condition and identify areas of concern.",
+          "Step 2: Application of our specialized cleaning solution to loosen dirt, algae, and mildew.",
+          "Step 3: Gentle pressure washing to remove contaminants without damaging the fence.",
+          "Step 4: Application of a protective sealant (optional) to prevent future damage."
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Removal of dirt, algae, and mildew",
+          "Prevention of rot, rust, and decay",
+          "Extended fence lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my fence cleaned?",
+            "answer": "We recommend having your fence cleaned every 1-2 years to maintain its appearance and protect it from damage."
+          },
+          {
+            "question": "Is pressure washing safe for my wood fence?",
+            "answer": "Yes, we use a low-pressure setting and specialized cleaning solutions to safely clean wood fences. We are careful to avoid damaging the wood."
+          },
+          {
+            "question": "Do you offer fence staining or painting services?",
+            "answer": "Yes, we offer fence staining and painting services to further enhance the appearance and protection of your fence."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Keep your gutters flowing freely with our professional gutter cleaning.",
+        "description": "Clogged gutters can cause serious water damage to your home. When rainwater can't drain properly, it can overflow and seep into your walls, foundation, and roof. Our gutter cleaning service removes leaves, debris, and other obstructions, ensuring that your gutters are functioning properly.\n\nWe use a combination of manual cleaning and pressure washing to thoroughly clean your gutters. Our team is experienced in working with all types of gutter systems. We take care to protect your landscaping and surrounding areas during the cleaning process.\n\nRegular gutter cleaning not only prevents water damage but also helps to prevent pest infestations. Clogged gutters can provide a breeding ground for mosquitoes and other insects. By keeping your gutters clean, you can create a healthier and more comfortable living environment. Given Fresno's location, keeping gutters clear of debris is an essential part of home maintenance.",
+        "process": [
+          "Step 1: Removal of leaves and debris from your gutters by hand.",
+          "Step 2: Flushing of your gutters and downspouts with water to remove any remaining obstructions.",
+          "Step 3: Inspection of your gutters for any signs of damage or wear.",
+          "Step 4: Bagging and disposal of debris."
+        ],
+        "benefits": [
+          "Prevention of water damage",
+          "Prevention of pest infestations",
+          "Protection of your home's foundation",
+          "Extended gutter lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend having your gutters cleaned at least twice a year, in the spring and fall. If you have a lot of trees around your home, you may need to have them cleaned more often."
+          },
+          {
+            "question": "Do you offer gutter repair services?",
+            "answer": "Yes, we offer gutter repair services to fix any damage or wear to your gutter system."
+          },
+          {
+            "question": "Do I need to be home during the gutter cleaning service?",
+            "answer": "No, you do not need to be home during the service. We just need access to your gutters."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-pressure-washing",
+        "name": "Commercial Pressure Washing",
+        "shortDescription": "Maintain a professional image with our commercial pressure washing services.",
+        "description": "First impressions matter, especially for businesses. A clean and well-maintained exterior can attract customers and create a positive image. Our commercial pressure washing service is designed to help businesses in Fresno maintain a professional appearance.\n\nWe offer a wide range of commercial pressure washing services, including building washing, sidewalk cleaning, parking lot cleaning, and more. Our team is experienced in working with all types of commercial properties, from small storefronts to large office buildings. We use professional-grade equipment and cleaning solutions to deliver superior results.\n\nRegular commercial pressure washing not only improves your business's appearance but also helps to prevent damage from dirt, grime, and graffiti. These contaminants can damage your building's exterior and detract from its value. By keeping your property clean, you can protect your investment and maintain a positive image for your business. Fresno businesses near the Tower District and other high-traffic areas benefit greatly from our services.",
+        "process": [
+          "Step 1: Consultation to assess your specific needs and develop a customized cleaning plan.",
+          "Step 2: Pre-treatment of problem areas with specialized cleaning solutions.",
+          "Step 3: High-pressure washing to remove dirt, grime, and graffiti.",
+          "Step 4: Final inspection to ensure complete satisfaction."
+        ],
+        "benefits": [
+          "Improved business image",
+          "Attraction of new customers",
+          "Prevention of damage from dirt, grime, and graffiti",
+          "Protection of your commercial property"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial properties do you service?",
+            "answer": "We service a wide range of commercial properties, including storefronts, office buildings, restaurants, and more."
+          },
+          {
+            "question": "Do you offer after-hours cleaning services?",
+            "answer": "Yes, we offer after-hours cleaning services to minimize disruption to your business operations."
+          },
+          {
+            "question": "Are you insured?",
+            "answer": "Yes, we are fully insured to protect your property and our employees."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fresno",
+        "slug": "fresno-ca",
+        "state": "CA",
+        "content": "Pristine Appearance is proud to offer professional pressure washing services to the residents and businesses of Fresno, CA. We understand the unique challenges that the Central Valley climate presents, from stubborn dirt and grime to the effects of seasonal allergies on your property's exterior. Our experienced team is equipped to handle any pressure washing need, big or small, ensuring your home or business looks its absolute best.\n\nWe are committed to providing exceptional service and results that exceed your expectations. From revitalizing your driveway and sidewalks to restoring the beauty of your siding and decks, Pristine Appearance is your trusted partner for all your pressure washing needs in Fresno. We use eco-friendly cleaning solutions and state-of-the-art equipment to deliver a safe and effective cleaning experience.",
+        "localContext": "Fresno, a vibrant city in the heart of California, is known for its rich agricultural heritage and diverse community. Pristine Appearance understands the importance of maintaining a clean and welcoming environment for both residents and businesses in Fresno.",
+        "nearbyAreas": [
+          "Clovis",
+          "Sanger",
+          "Selma"
+        ]
+      },
+      {
+        "city": "Clovis",
+        "slug": "clovis-ca",
+        "state": "CA",
+        "content": "Pristine Appearance extends its top-notch pressure washing services to the charming community of Clovis, CA. Known for its family-friendly atmosphere and well-maintained neighborhoods, Clovis residents take pride in their homes and businesses. We are dedicated to helping you maintain your property's curb appeal with our comprehensive pressure washing solutions.\n\nWhether you need to remove years of accumulated dirt from your patio, clean your fence, or prepare your home for painting, Pristine Appearance has the expertise and equipment to get the job done right. We offer a range of services to suit your specific needs and budget, ensuring your satisfaction every time.",
+        "localContext": "Clovis, often called the 'Gateway to the Sierras,' boasts a strong sense of community and a commitment to preserving its small-town charm. Pristine Appearance is proud to serve the residents and businesses of Clovis with reliable and professional pressure washing services.",
+        "nearbyAreas": [
+          "Fresno",
+          "Sanger",
+          "Madera"
+        ]
+      },
+      {
+        "city": "Sanger",
+        "slug": "sanger-ca",
+        "state": "CA",
+        "content": "Pristine Appearance is pleased to offer professional pressure washing services to the residents and businesses of Sanger, CA. As the 'Nation's Christmas Tree City,' Sanger takes pride in its appearance and community spirit. We are committed to helping you maintain the beauty and cleanliness of your property with our expert pressure washing solutions.\n\nWe understand the importance of a clean and inviting environment, whether it's for your home or your business. Our experienced team is equipped to handle any pressure washing project, from cleaning sidewalks and driveways to revitalizing decks and patios. Let Pristine Appearance help you make a lasting impression with a sparkling clean property.",
+        "localContext": "Sanger, known for its festive celebrations and strong agricultural ties, values community pride and well-maintained properties. Pristine Appearance is dedicated to providing Sanger residents with high-quality pressure washing services they can rely on.",
+        "nearbyAreas": [
+          "Fresno",
+          "Clovis",
+          "Reedley"
+        ]
+      },
+      {
+        "city": "Selma",
+        "slug": "selma-ca",
+        "state": "CA",
+        "content": "Pristine Appearance brings its expert pressure washing services to the community of Selma, CA, the 'Raisin Capital of the World.' Selma's beautiful homes and businesses deserve the best care, and we're here to help you maintain their pristine appearance with our comprehensive cleaning services.\n\nFrom removing stubborn stains from your driveway to washing away years of grime from your siding, Pristine Appearance has the tools and expertise to handle any pressure washing project. We're committed to providing exceptional service and ensuring your complete satisfaction.",
+        "localContext": "Selma, a thriving agricultural hub, is known for its friendly atmosphere and strong community bonds. Pristine Appearance is proud to serve the residents and businesses of Selma, helping them keep their properties looking their best.",
+        "nearbyAreas": [
+          "Fresno",
+          "Kingsburg",
+          "Hanford"
+        ]
+      },
+      {
+        "city": "Madera",
+        "slug": "madera-ca",
+        "state": "CA",
+        "content": "Pristine Appearance is now offering its professional pressure washing services to the city of Madera, CA. Madera's diverse community and growing economy make it a vibrant place to live and work. We are dedicated to helping you maintain the beauty and value of your property with our expert cleaning solutions.\n\nOur experienced team is equipped to handle any pressure washing project, from removing dirt and grime from your sidewalks and driveways to cleaning your siding and decks. We use eco-friendly cleaning solutions and state-of-the-art equipment to deliver a safe and effective cleaning experience.",
+        "localContext": "Madera, a city with a rich history and a bright future, is committed to providing a high quality of life for its residents. Pristine Appearance is proud to contribute to the community by offering reliable and professional pressure washing services.",
+        "nearbyAreas": [
+          "Chowchilla",
+          "Fresno",
+          "Kerman"
+        ]
+      },
+      {
+        "city": "Kerman",
+        "slug": "kerman-ca",
+        "state": "CA",
+        "content": "Pristine Appearance is pleased to provide pressure washing services to Kerman, CA. With a strong agricultural heritage, Kerman residents take pride in maintaining their properties. Pristine Appearance offers top-quality pressure washing and exterior cleaning solutions.\n\nWe understand the unique challenges posed by the Central Valley's climate, including dust and grime accumulation. Our services range from driveway and sidewalk cleaning to whole-house pressure washing, ensuring your home or business always looks its best.",
+        "localContext": "Kerman is a close-knit community known for its agricultural roots and family-friendly atmosphere. Pristine Appearance is dedicated to serving the residents and businesses of Kerman with reliable and efficient pressure washing.",
+        "nearbyAreas": [
+          "Mendota",
+          "Fresno",
+          "Madera"
+        ]
+      },
+      {
+        "city": "Reedley",
+        "slug": "reedley-ca",
+        "state": "CA",
+        "content": "Pristine Appearance is excited to extend our pressure washing services to Reedley, CA, known as 'The World's Fruit Basket.' We understand the importance of maintaining a clean and attractive property in this vibrant community. Our experienced team is ready to tackle any pressure washing need, ensuring your home or business looks its best.\n\nWe offer a wide range of services, including driveway and sidewalk cleaning, siding washing, and deck restoration. Pristine Appearance is committed to providing exceptional service and results that exceed your expectations.",
+        "localContext": "Reedley is a city with a strong agricultural industry and a thriving community spirit. Pristine Appearance is proud to serve the residents and businesses of Reedley with top-quality pressure washing services.",
+        "nearbyAreas": [
+          "Dinuba",
+          "Sanger",
+          "Selma"
+        ]
+      },
+      {
+        "city": "Kingsburg",
+        "slug": "kingsburg-ca",
+        "state": "CA",
+        "content": "Pristine Appearance is now offering professional pressure washing services to Kingsburg, CA, known for its Swedish heritage. Kingsburg's unique charm and well-maintained properties are a source of pride for its residents. We are committed to helping you maintain the beauty and cleanliness of your property with our expert pressure washing solutions.\n\nWhether you need to remove years of accumulated dirt from your patio, clean your fence, or prepare your home for painting, Pristine Appearance has the expertise and equipment to get the job done right. We offer a range of services to suit your specific needs and budget, ensuring your satisfaction every time.",
+        "localContext": "Kingsburg, with its distinctive Swedish architecture and welcoming atmosphere, values community pride and well-maintained properties. Pristine Appearance is dedicated to providing Kingsburg residents with high-quality pressure washing services they can rely on.",
+        "nearbyAreas": [
+          "Selma",
+          "Hanford",
+          "Lemoore"
+        ]
+      },
+      {
+        "city": "Dinuba",
+        "slug": "dinuba-ca",
+        "state": "CA",
+        "content": "Pristine Appearance is providing pressure washing services to Dinuba, CA. Known for its agricultural prosperity, Dinuba properties can benefit greatly from regular cleaning to combat dirt and grime. Our services help maintain property value and enhance curb appeal.\n\nOur pressure washing offerings include cleaning for homes, businesses, driveways, sidewalks, and more. We use professional-grade equipment and eco-friendly cleaning solutions to deliver superior results, ensuring customer satisfaction.",
+        "localContext": "Dinuba, a city rooted in agriculture, emphasizes community and maintaining a clean, welcoming environment. Pristine Appearance supports Dinuba's commitment to property upkeep through effective pressure washing services.",
+        "nearbyAreas": [
+          "Visalia",
+          "Reedley",
+          "Cutler"
+        ]
+      },
+      {
+        "city": "Visalia",
+        "slug": "visalia-ca",
+        "state": "CA",
+        "content": "Pristine Appearance is pleased to extend its pressure washing services to Visalia, CA. As a major economic hub in the Central Valley, Visalia's businesses and residences benefit from Pristine Appearance's expertise in exterior cleaning.\n\nFrom commercial building washing to residential siding cleaning, we offer a comprehensive range of services tailored to Visalia's diverse needs. Our commitment to quality and customer satisfaction ensures exceptional results every time.",
+        "localContext": "Visalia, a thriving city with a strong business community, values a clean and professional image. Pristine Appearance contributes to Visalia's aesthetic appeal by providing expert pressure washing services.",
+        "nearbyAreas": [
+          "Tulare",
+          "Hanford",
+          "Dinuba"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "House Washing",
+        "text": "Pristine Appearance did an amazing job washing my house! It looks brand new. They were on time, professional, and very thorough. I highly recommend them!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Driveway Cleaning",
+        "text": "Our driveway was covered in oil stains. Pristine Appearance came out and did a great job removing them. There are a couple of faint spots left, but overall, a huge improvement!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Patio & Deck Cleaning",
+        "text": "Our patio was green with algae. Pristine Appearance cleaned it up beautifully! Now we can actually enjoy our outdoor space again. They were quick and efficient.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Fence Cleaning",
+        "text": "Our fence was looking really rough. Pristine Appearance cleaned it and applied a sealant. It looks fantastic now and should last for years. Great job!",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Emily B.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "Pristine Appearance cleaned our gutters quickly and efficiently. They were full of leaves and debris. Now I don't have to worry about water damage. Good value for the price.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Commercial Pressure Washing",
+        "text": "Pristine Appearance pressure washed our storefront and sidewalks. It made a huge difference in our business's appearance. Very professional and reliable service.",
+        "date": "2024-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Fresno Pressure Washing | Pristine Appearance",
+        "description": "Expert pressure washing services in Fresno, CA. House washing, driveway cleaning, and more. Free quotes!"
+      },
+      "about": {
+        "title": "About Pristine Appearance | Fresno, CA",
+        "description": "Learn about Pristine Appearance, Fresno's trusted pressure washing company. Years of experience and commitment to quality."
+      },
+      "services": {
+        "title": "Pressure Washing Services | Fresno, CA",
+        "description": "Our pressure washing services include house washing, driveway cleaning, patio cleaning, and more. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Pristine Appearance | Fresno, CA",
+        "description": "Contact Pristine Appearance for all your pressure washing needs in Fresno. Get a free quote and schedule your service today!"
+      },
+      "reviews": {
+        "title": "Pristine Appearance Reviews | Fresno, CA",
+        "description": "Read what our customers are saying about Pristine Appearance. See why we're Fresno's top-rated pressure washing company."
+      },
+      "service-areas": {
+        "title": "Pressure Washing Service Areas | Fresno, CA",
+        "description": "Pristine Appearance provides pressure washing services in Fresno and surrounding areas. Check our service area list."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "house-washing": "/images/service-house-washing.webp",
+      "driveway-cleaning": "/images/service-driveway-cleaning.webp",
+      "patio-deck-cleaning": "/images/service-patio-deck-cleaning.webp",
+      "fence-cleaning": "/images/service-fence-cleaning.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "commercial-pressure-washing": "/images/service-commercial-pressure-washing.webp"
+    },
+    "servicesResponsive": {
+      "house-washing": {
+        "src": "/images/service-house-washing.webp",
+        "srcset": "/images/service-house-washing-400w.webp 400w, /images/service-house-washing-800w.webp 800w, /images/service-house-washing-1200w.webp 1200w, /images/service-house-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-cleaning": {
+        "src": "/images/service-driveway-cleaning.webp",
+        "srcset": "/images/service-driveway-cleaning-400w.webp 400w, /images/service-driveway-cleaning-800w.webp 800w, /images/service-driveway-cleaning-1200w.webp 1200w, /images/service-driveway-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-deck-cleaning": {
+        "src": "/images/service-patio-deck-cleaning.webp",
+        "srcset": "/images/service-patio-deck-cleaning-400w.webp 400w, /images/service-patio-deck-cleaning-800w.webp 800w, /images/service-patio-deck-cleaning-1200w.webp 1200w, /images/service-patio-deck-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-cleaning": {
+        "src": "/images/service-fence-cleaning.webp",
+        "srcset": "/images/service-fence-cleaning-400w.webp 400w, /images/service-fence-cleaning-800w.webp 800w, /images/service-fence-cleaning-1200w.webp 1200w, /images/service-fence-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-pressure-washing": {
+        "src": "/images/service-commercial-pressure-washing.webp",
+        "srcset": "/images/service-commercial-pressure-washing-400w.webp 400w, /images/service-commercial-pressure-washing-800w.webp 800w, /images/service-commercial-pressure-washing-1200w.webp 1200w, /images/service-commercial-pressure-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
